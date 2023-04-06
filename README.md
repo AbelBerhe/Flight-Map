@@ -1,3 +1,7 @@
+![QuizBuilder](flight(GIF).gif)
+
+
+
 <img width="150px" src="https://w0244079.github.io/nscc/nscc-jpeg.jpg" >
 
 # PROG 2700 - Assignment
@@ -138,4 +142,4 @@ Code sharing by any means is considered plagiarism and is strictly forbidden und
 [NSCC ACADEMIC INTEGRITY GUIDELINES](https://www.nscc.ca/docs/about-nscc/policies-procedures/policy-academicintegrity.pdf)  
 [NSCC ACADEMIC INTEGRITY REPORTING POLICY](https://www.nscc.ca/docs/about-nscc/policies-procedures/procedures-academicintegritystudent.pdf)
 
-![QuizBuilder](flight(GIF).gif)
+
