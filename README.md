@@ -138,4 +138,4 @@ Code sharing by any means is considered plagiarism and is strictly forbidden und
 [NSCC ACADEMIC INTEGRITY GUIDELINES](https://www.nscc.ca/docs/about-nscc/policies-procedures/policy-academicintegrity.pdf)  
 [NSCC ACADEMIC INTEGRITY REPORTING POLICY](https://www.nscc.ca/docs/about-nscc/policies-procedures/procedures-academicintegritystudent.pdf)
 
-![QuizBuilder](https://github.com/AbelBerhe/QuizBuilder/blob/7f955ebf37336497b1b6655727b93d9da7357812/QuizBuilder.gif)
+![QuizBuilder](flight(GIF).gif)
